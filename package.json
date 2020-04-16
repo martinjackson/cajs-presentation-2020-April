@@ -1,0 +1,22 @@
+{
+  "name": "simple-koa",
+  "version": "1.0.0",
+  "description": "",
+  "main": "simple.js",
+  "scripts": {
+    "start": "echo use run-snow.sh or run-wpack.sh to serve the front-end built with snowpack or webpack",
+    "test": "sitespeed.io -n 10 https://localhost:8000"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "argparse": "^1.0.10",
+    "koa": "^2.11.0",
+    "koa-helmet": "^5.2.0",
+    "koa-static": "^5.0.0",
+    "mime": "^2.4.4"
+  },
+  "devDependencies": {
+    "sitespeed.io": "^12.1.0"
+  }
+}
