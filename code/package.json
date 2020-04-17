@@ -20,7 +20,9 @@
     "csv-parse": "^4.4.6",
     "growl": "^1.10.2",
     "debug": "^3.1.0",
-    "minimist": "^1.2.3"
+    "minimist": "^1.2.3",
+    "acorn": "^5.7.4",
+    "diff": "^3.5.0"
   },
   "devDependencies": {
     "sitespeed.io": "^12.5.1"
