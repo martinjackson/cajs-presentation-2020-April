@@ -3,6 +3,8 @@ public/
 web_modules
 node_modules
 package-lock.json
+code/ssl/*.key
+code/ssl/*.crt
 
 .cache
 bin
