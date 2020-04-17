@@ -16,7 +16,13 @@
     "koa-static": "^5.0.0",
     "mime": "^2.4.4"
   },
+  "resolutions": {
+    "csv-parse": "^4.4.6",
+    "growl": "^1.10.2",
+    "debug": "^3.1.0",
+    "minimist": "^1.2.3"
+  },
   "devDependencies": {
-    "sitespeed.io": "^12.1.0"
+    "sitespeed.io": "^12.5.1"
   }
 }

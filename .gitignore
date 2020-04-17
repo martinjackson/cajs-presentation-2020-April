@@ -5,6 +5,7 @@ node_modules
 package-lock.json
 code/ssl/*.key
 code/ssl/*.crt
+code/ssl/*.pem
 
 .cache
 bin
